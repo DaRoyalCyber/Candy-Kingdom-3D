@@ -14,7 +14,7 @@ Candy Kingdom is an immersive experience where players navigate through a styliz
 ## 🛠️ Built With
 * **Engine:** Unity 3D
 * **Language:** C# (Object-Oriented Programming)
-* **Assets:** Optimized 3D models and textures.
+* **Field:** Game Development / Interactive Design
 
 ---
 *Note: The source code and project assets are private. This repository serves as a portfolio showcase of the technical implementation and design logic.*
