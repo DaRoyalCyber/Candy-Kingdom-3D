@@ -2,7 +2,7 @@
 
 A vibrant 3D action-reflex game that challenges players' speed and precision. This project showcases advanced game development concepts using Unity and C#.
 
-## 🎮 Game Overview
+##  Game Overview
 Candy Kingdom is an immersive experience where players navigate through a stylized world, overcoming obstacles and achieving high scores through fast-paced mechanics.
 
 ##  Technical Features
