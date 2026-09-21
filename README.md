@@ -1,4 +1,4 @@
-# Candy Kingdom 3D 🍭⚔️
+# Candy Kingdom 3D 
 
 A vibrant 3D action-reflex game that challenges players' speed and precision. This project showcases advanced game development concepts using Unity and C#.
 
