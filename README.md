@@ -16,5 +16,3 @@ Candy Kingdom is an immersive experience where players navigate through a styliz
 * **Language:** C# (Object-Oriented Programming)
 * **Field:** Game Development / Interactive Design
 
----
-*Note: The source code and project assets are private. This repository serves as a portfolio showcase of the technical implementation and design logic.*
